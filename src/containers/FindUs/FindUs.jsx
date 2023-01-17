@@ -4,7 +4,7 @@ import { images } from '../../constants'
 import "./findus.css"
 const FindUs = () => {
   return (
-    <div className="app__findUs app__bg app__wrapper section__padding">
+    <div className="app__findUs app__bg app__wrapper section__padding" id="Contact">
       <div className="app__wrapper_info">
       <SubHeading title="Contact" />
       <h1 className="headtext__cormorant" style={{ marginBottom: '3rem' }}>Find Us</h1>

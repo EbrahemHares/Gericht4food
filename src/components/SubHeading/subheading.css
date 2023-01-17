@@ -1,0 +1,21 @@
+/* .app__subheading{
+    display:flex;
+    justify-content: center;
+    align-items: flex-start; 
+    flex-direction: column;
+    gap:.5rem;
+    background-color: black;
+    color:white;
+}
+.app__subheading p{
+    font-family: var(--font-base);
+} */
+
+@media screen and (min-width:2000px){
+    .app__subheading img{
+        width: 60px;
+    }
+    /* .app__subheading p{
+        width: 142px;
+    } */
+}

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Gericht4food/static/css/main.acd6af06.css",
+    "main.css": "/Gericht4food/static/css/main.fed428f1.css",
     "main.js": "/Gericht4food/static/js/main.71e235c0.js",
     "static/media/meal.mp4": "/Gericht4food/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
     "static/media/bg.png": "/Gericht4food/static/media/bg.3d421b1b5682e1b67deb.png",
@@ -24,11 +24,11 @@
     "static/media/sign.png": "/Gericht4food/static/media/sign.9bf0bd90ad4caa17991f.png",
     "index.html": "/Gericht4food/index.html",
     "static/media/spoon.svg": "/Gericht4food/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
-    "main.acd6af06.css.map": "/Gericht4food/static/css/main.acd6af06.css.map",
+    "main.fed428f1.css.map": "/Gericht4food/static/css/main.fed428f1.css.map",
     "main.71e235c0.js.map": "/Gericht4food/static/js/main.71e235c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.acd6af06.css",
+    "static/css/main.fed428f1.css",
     "static/js/main.71e235c0.js"
   ]
 }

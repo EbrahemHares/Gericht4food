@@ -43,9 +43,9 @@ const Navbar = () => {
             <ul className="app__navbar-menuscreen_links">
               <Navlink handleClick={() =>  setToggleMenu(false)}/>
               <div className="app__navbar-menuscreen_links-login">
-                <li><a className="p__opensans" href="#login">Log in / registration</a></li>
+                <li><a className="p__opensans" href="#login" handleClick={() =>  setToggleMenu(false)}>Log in / registration</a></li>
                 <div/>
-                <li><a className="p__opensans" href="/">Book Table</a></li>
+                <li><a className="p__opensans" href="#login" handleClick={() =>  setToggleMenu(false)}>Book Table</a></li>
               </div>
             </ul>
             </div>
